@@ -6,8 +6,13 @@ from dotenv import load_dotenv
 from groq import Groq
 
 load_dotenv()
-
 api_key = os.environ.get("GROQ_API_KEY")
+if not api_key:
+    try:
+        import streamlit as st
+        api_key = st.secrets["GROQ_API_KEY"]
+    except Exception:
+        pass
 if not api_key:
     raise RuntimeError("Missing GROQ_API_KEY in .env file. Get a free key at console.groq.com")
 
