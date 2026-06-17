@@ -1,0 +1,436 @@
+{
+  "metadata": {
+    "city": "Gwadar",
+    "province": "Balochistan",
+    "country": "Pakistan",
+    "category": "Emergency Numbers & Important Contacts",
+    "data_collection_date": "2025-06-14",
+    "area_code": "+92-86 (Gwadar)",
+    "postal_code": "91200",
+    "timezone": "UTC+5 (PST)"
+  },
+  "national_emergency_numbers": {
+    "note": "These numbers work nationwide across Pakistan and are accessible 24/7",
+    "emergency_numbers": [
+      {
+        "service": "Police Emergency",
+        "numbers": ["15"],
+        "in_gwadar": "15",
+        "description": "For crimes, accidents, or immediate police assistance",
+        "available_24_7": true,
+        "services": [
+          "Report crimes",
+          "Accidents and emergencies",
+          "Missing persons",
+          "Suspicious activities",
+          "Vehicle snatching",
+          "Theft and robbery",
+          "Bomb disposal alert"
+        ]
+      },
+      {
+        "service": "Emergency Rescue & Ambulance",
+        "numbers": ["1122"],
+        "in_gwadar": "1122",
+        "description": "Medical emergency, fire, and rescue services across Pakistan",
+        "available_24_7": true,
+        "services": [
+          "Ambulance services",
+          "Emergency medical response",
+          "Fire brigade assistance",
+          "Rescue operations",
+          "Accident response",
+          "Emergency evacuation"
+        ],
+        "note": "Rescue 1122 operates in Balochistan including Gwadar"
+      },
+      {
+        "service": "Edhi Ambulance (Private)",
+        "numbers": ["115"],
+        "in_gwadar": "115",
+        "description": "Nationwide ambulance service operated by Edhi Foundation",
+        "available_24_7": true,
+        "services": [
+          "Ambulance emergency services",
+          "Medical transportation",
+          "Emergency response"
+        ]
+      },
+      {
+        "service": "Fire Brigade",
+        "numbers": ["16"],
+        "in_gwadar": "16",
+        "description": "Fire emergency and fire-related services",
+        "available_24_7": true,
+        "services": [
+          "Fire emergencies",
+          "Fire prevention",
+          "Building fires",
+          "Vehicle fires"
+        ]
+      },
+      {
+        "service": "Child Abuse Helpline (Madadgar)",
+        "numbers": ["1098"],
+        "in_gwadar": "1098",
+        "description": "Child protection and welfare helpline",
+        "available_24_7": true,
+        "services": [
+          "Child abuse reporting",
+          "Child protection",
+          "Missing children assistance"
+        ]
+      },
+      {
+        "service": "Water & Sanitation Emergency",
+        "numbers": ["1334"],
+        "description": "Water supply and sanitation related emergencies",
+        "available_24_7": false
+      },
+      {
+        "service": "Gas Emergency (Sui Gas)",
+        "numbers": ["119"],
+        "description": "Gas leak and emergency complaints",
+        "available_24_7": true,
+        "services": [
+          "Gas leak reporting",
+          "Gas theft complaints"
+        ]
+      }
+    ]
+  },
+  "local_gwadar_administrative_contacts": {
+    "note": "Gwadar district administration and government offices",
+    "deputy_commissioner_office": {
+      "position": "Deputy Commissioner Gwadar",
+      "current_officer": "Hamood-Ur-Rehman (BPS-18 PAS)",
+      "rank": "BPS-18",
+      "designation": "DC Gwadar",
+      "address": "Deputy Commissioner Office, Gwadar, Balochistan",
+      "phone_numbers": [
+        "+92-86 XXXXXX (Exact number requires verification)"
+      ],
+      "services": [
+        "Administrative issues",
+        "District governance",
+        "Public complaints",
+        "Emergency coordination"
+      ],
+      "office_hours": "9:00 AM - 5:00 PM (Monday-Friday)"
+    },
+    "district_police_officer": {
+      "position": "District Police Officer (DPO)",
+      "current_officer": "Zuhaib Mohsin (BPS-18 PSP)",
+      "rank": "BPS-18",
+      "emergency_number": "15",
+      "office": "District Police Office, Gwadar",
+      "services": [
+        "Police emergencies",
+        "Law and order",
+        "Crime reporting",
+        "Police complaints"
+      ],
+      "phone_number": "+92-86 XXXXXX (Requires verification)",
+      "note": "Contact through emergency number 15 for immediate assistance"
+    },
+    "gwadar_development_authority": {
+      "name": "Gwadar Development Authority (GDA)",
+      "website": "www.gda.gov.pk",
+      "mayor": "Muhammad Sharif Miah Dad",
+      "services": [
+        "Municipal services",
+        "City development",
+        "Infrastructure",
+        "Public utilities",
+        "Hospital management"
+      ]
+    }
+  },
+  "hospitals_and_medical_facilities": {
+    "note": "Hospitals and healthcare facilities in Gwadar for emergency medical services",
+    "major_hospitals": [
+      {
+        "id": "H_001",
+        "name": "GDA Hospital (Pak-China Friendship Hospital)",
+        "type": "Government Hospital - Modern 150-bedded facility",
+        "description": "State-of-the-art hospital with modern medical equipment, funded by Chinese government as CPEC project",
+        "established": "Inauguration in May 2025",
+        "beds": "150 beds",
+        "contact": {
+          "phone": "+92-86 XXXXXX (Exact number requires verification)",
+          "address": "GDA Hospital, Gwadar, Balochistan",
+          "email": "Not publicly available"
+        },
+        "operating_hours": {
+          "consultant_clinics": "Monday-Saturday, 9:00 AM - 4:00 PM",
+          "family_medicine": "Monday-Saturday, 9:00 AM - 8:00 PM",
+          "emergency_ae": "24/7 Available"
+        },
+        "departments": [
+          "Emergency (A&E)",
+          "General Surgery",
+          "Orthopedics",
+          "Urology",
+          "Laboratory",
+          "CT Scanners",
+          "Ultrasound",
+          "Radiology"
+        ],
+        "managed_by": "Indus Hospital & Health Network",
+        "patient_capacity": "Approximately 900 patients daily",
+        "emergency_24_7": true,
+        "verified": false,
+        "note": "Most modern facility in Gwadar"
+      },
+      {
+        "id": "H_002",
+        "name": "Civil Hospital Gwadar",
+        "type": "Government Hospital",
+        "description": "Main government hospital providing general medical services",
+        "location": "Gwadar, Balochistan",
+        "contact": {
+          "phone": "Not publicly listed (Requires verification)",
+          "address": "Civil Hospital, Gwadar, Balochistan"
+        },
+        "emergency_24_7": true,
+        "emergency_number": "1122",
+        "services": [
+          "General medical services",
+          "Emergency care",
+          "Inpatient services",
+          "Basic surgical facilities"
+        ],
+        "verified": false
+      }
+    ],
+    "private_hospitals_and_clinics": {
+      "note": "Private healthcare facilities in Gwadar (Phone numbers require verification)",
+      "facilities": [
+        {
+          "name": "Private Clinics and Diagnostic Centers",
+          "description": "Various private clinics throughout Gwadar",
+          "note": "Contact through Marham app or local referral"
+        }
+      ]
+    },
+    "emergency_medical_contact": {
+      "ambulance_services": [
+        {
+          "service": "Rescue 1122",
+          "number": "1122",
+          "availability": "24/7",
+          "coverage": "Gwadar and Balochistan"
+        },
+        {
+          "service": "Edhi Ambulance",
+          "number": "115",
+          "availability": "24/7",
+          "coverage": "Nationwide"
+        }
+      ],
+      "blood_bank": {
+        "service": "Blood Bank Services",
+        "contact": "Contact through hospitals or 1122",
+        "information": "Available at GDA Hospital and Civil Hospital"
+      }
+    }
+  },
+  "police_and_law_enforcement": {
+    "police_emergency": {
+      "service": "Police Emergency",
+      "number": "15",
+      "availability": "24/7",
+      "in_gwadar": true,
+      "local_station": "Gwadar Police Station",
+      "services": [
+        "Crime reporting",
+        "Accidents",
+        "Missing persons",
+        "Theft/robbery",
+        "Harassment complaints"
+      ]
+    },
+    "frontier_corps": {
+      "name": "Frontier Corps Balochistan (FC)",
+      "role": "Military law enforcement in Balochistan",
+      "jurisdiction": "All areas of Balochistan including Gwadar",
+      "emergency": "15 (Coordinate through police)"
+    },
+    "coast_guard": {
+      "name": "Pakistan Maritime Security Agency / Coast Guard",
+      "jurisdiction": "Gwadar coastal area",
+      "role": "Maritime security and coastal protection",
+      "note": "Contact through police emergency number 15"
+    }
+  },
+  "utility_and_service_complaints": {
+    "electricity": {
+      "service": "FESCO/PEPCO Complaint",
+      "number": "Not available for Gwadar (varies by region)",
+      "issue": "Power cuts, billing complaints, dangerous wires",
+      "method": "Contact through regional office or customer service"
+    },
+    "water_sanitation": {
+      "service": "Water Supply & Sanitation",
+      "emergency_number": "1334",
+      "issues": [
+        "Water contamination",
+        "Pipe bursts",
+        "Water shortage",
+        "Sanitation issues"
+      ]
+    },
+    "gas": {
+      "service": "Sui Gas Company",
+      "number": "119",
+      "issues": [
+        "Gas leaks",
+        "Gas theft complaints",
+        "Meter problems"
+      ],
+      "availability": "24/7"
+    },
+    "telecommunications": {
+      "ptcl": {
+        "service": "PTCL/Internet",
+        "complaint_number": "18",
+        "issues": "Phone and internet services"
+      },
+      "mobile_operators": {
+        "operators": [
+          "Zong",
+          "Jazz",
+          "Telenor",
+          "Ufone"
+        ],
+        "contact": "Contact through individual operator customer service"
+      }
+    }
+  },
+  "airport_and_transportation": {
+    "gwadar_international_airport": {
+      "name": "Gwadar International Airport",
+      "contact": "Not publicly available (Requires verification)",
+      "services": [
+        "Domestic flights",
+        "International flights",
+        "Emergency landing facilities"
+      ],
+      "nearest_city": "Gwadar city center"
+    }
+  },
+  "tourism_and_general_information": {
+    "gwadar_tourism": {
+      "tourist_information": "Contact Gwadar Development Authority",
+      "website": "www.gda.gov.pk",
+      "services": [
+        "Tourist information",
+        "Accommodation assistance",
+        "Travel guidance"
+      ]
+    },
+    "diplomatic_missions": {
+      "note": "For international emergencies or visa issues",
+      "pakistan_embassy_contacts": "Available in major cities (Karachi, Islamabad)"
+    }
+  },
+  "important_national_contacts": {
+    "note": "National level emergency and important contacts",
+    "services": [
+      {
+        "service": "Pakistan Railways Inquiry",
+        "number": "139",
+        "description": "Train schedule and booking information"
+      },
+      {
+        "service": "Counter Terrorism Department",
+        "number": "0800-111-11",
+        "description": "For security threats and terrorism-related concerns"
+      },
+      {
+        "service": "Aurat Foundation (Women Helpline)",
+        "number": "0800-22266",
+        "description": "Women's rights and domestic violence support"
+      }
+    ]
+  },
+  "emergency_response_procedures": {
+    "what_to_do_in_emergency": [
+      {
+        "situation": "Medical Emergency",
+        "action": "Call 1122 or 115",
+        "info_needed": "Location, symptoms, age, patient condition"
+      },
+      {
+        "situation": "Crime/Security Threat",
+        "action": "Call 15",
+        "info_needed": "Exact location, nature of crime, any description of perpetrators"
+      },
+      {
+        "situation": "Fire",
+        "action": "Call 16 or 1122",
+        "info_needed": "Location, type of fire, people in danger, address"
+      },
+      {
+        "situation": "Child Abuse",
+        "action": "Call 1098 or police 15",
+        "info_needed": "Location, child's name, nature of abuse"
+      },
+      {
+        "situation": "Accident",
+        "action": "Call 15 and 1122",
+        "info_needed": "Location, number of people injured, vehicle details"
+      }
+    ],
+    "tips": [
+      "Always provide exact location/address/landmarks",
+      "Speak clearly and calmly",
+      "Follow dispatcher instructions",
+      "Be ready to provide phone number for callback",
+      "Stay on line until help arrives or dispatcher ends call"
+    ]
+  },
+  "healthcare_access": {
+    "online_consultation": {
+      "platform": "Marham.pk",
+      "contact": "0311-1222398",
+      "services": [
+        "Online doctor consultation",
+        "Appointment booking",
+        "Hospital information",
+        "Telemedicine services"
+      ]
+    }
+  },
+  "data_verification_status": {
+    "verified_numbers": [
+      "Police Emergency: 15 (National)",
+      "Rescue 1122 (National, serves Balochistan)",
+      "Fire Brigade: 16 (National)",
+      "Edhi Ambulance: 115 (National)"
+    ],
+    "requires_verification": [
+      "Specific hospital phone numbers",
+      "DC Office direct numbers",
+      "Police station direct contact",
+      "Gwadar-specific utility complaints"
+    ],
+    "recommendation": "Call verified national emergency numbers (15, 1122, 16, 115) for immediate assistance. For specific local services, contact through emergency numbers or Gwadar Development Authority website."
+  },
+  "rag_training_notes": {
+    "primary_use": [
+      "Emergency: Use 15 (Police), 1122 (Rescue), 115 (Ambulance), 16 (Fire)",
+      "Hospital: Use 1122 for ambulance, contact GDA Hospital or Civil Hospital directly",
+      "Administration: Contact Gwadar Development Authority through www.gda.gov.pk",
+      "Utilities: Use national complaint numbers (119 gas, 1334 water, 18 telecom)"
+    ],
+    "important_reminders": [
+      "Save all emergency numbers in phone contacts",
+      "Keep location information ready when calling",
+      "Speak clearly during emergency calls",
+      "Know landmark names near your location",
+      "Emergency calls work even from locked phones"
+    ],
+    "limitations": "Some specific local numbers not publicly available online - use national emergency numbers and they will coordinate with local authorities"
+  }
+}
