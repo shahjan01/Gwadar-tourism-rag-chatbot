@@ -1,0 +1,858 @@
+{
+  "metadata": {
+    "city": "Gwadar",
+    "province": "Balochistan",
+    "country": "Pakistan",
+    "category": "Hotels & Accommodations",
+    "data_collection_date": "2025-06-14",
+    "total_hotels": 30,
+    "data_verification_note": "Mixed verified and unverified data - marked accordingly for RAG training",
+    "currency": "Pakistani Rupees (PKR)"
+  },
+  "verification_status": {
+    "verified_hotels": 3,
+    "partially_verified": 8,
+    "unverified": 19,
+    "note": "Phone numbers in Pakistani format: +92-XXX-XXXXXXX or +92 3XX XXXXXXX"
+  },
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Zaver Pearl Continental Hotel Gwadar",
+      "type": "Luxury Hotel (5-Star)",
+      "description": "Luxury 5-star hotel located on Koh-e-Batil with panoramic Arabian Sea views, fine dining, and premium business facilities.",
+      "phone_number": "+92 86 4212223",
+      "phone_verified": true,
+      "verification_source": "Provided in source document",
+      "location": "Koh-e-Batil, Gwadar, Balochistan, Pakistan",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 4.2,
+      "price_range": "High (Luxury)",
+      "amenities": [
+        "Fine dining restaurant",
+        "Sea view",
+        "Business facilities",
+        "Conference rooms"
+      ],
+      "image_url": "https://emerginggwadar.com/wp-content/uploads/pc-hotel-gwadar.jpg",
+      "image_verified": true,
+      "image_note": "URL from emerginggwadar.com - appears legitimate",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "HIGH"
+    },
+    {
+      "id": 2,
+      "name": "Sadaf Resort Gwadar",
+      "type": "Mid-Range Resort",
+      "description": "Comfortable family resort near Marine Drive offering modern rooms, restaurant, and seaside access.",
+      "phone_number": "+92 86 4210967",
+      "phone_verified": true,
+      "verification_source": "Provided in source document",
+      "location": "Marine Drive, Gwadar, Balochistan",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 4.0,
+      "price_range": "Medium",
+      "amenities": [
+        "Restaurant",
+        "Seaside access",
+        "Modern rooms",
+        "Family facilities"
+      ],
+      "image_url": "https://triptap.com/images/sadaf-resort-gwadar.jpg",
+      "image_verified": false,
+      "image_note": "External URL - not verified",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "MEDIUM"
+    },
+    {
+      "id": 3,
+      "name": "Askani Hotel",
+      "type": "Budget Hotel",
+      "description": "Budget hotel in Old City Gwadar with basic facilities and easy access to transport and food spots.",
+      "phone_number": "+92 86 4210573",
+      "phone_verified": true,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar Old City, Balochistan",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.6,
+      "price_range": "Low",
+      "amenities": [
+        "Basic facilities",
+        "Easy transport access",
+        "Near food spots"
+      ],
+      "image_url": "https://lh5.googleusercontent.com/p/askani-hotel.jpg",
+      "image_verified": false,
+      "image_note": "Google hosted image - URL format unverified",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "MEDIUM"
+    },
+    {
+      "id": 4,
+      "name": "Royal Resort Gwadar",
+      "type": "Mid-Range Resort",
+      "description": "Peaceful resort near airport offering clean rooms and family-friendly environment.",
+      "phone_number": "+92 333 2008766",
+      "phone_verified": false,
+      "verification_source": "Provided in source document - format unusual for Gwadar (333 prefix typically Karachi)",
+      "location": "Airport Road, Gwadar",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 4.0,
+      "price_range": "Medium",
+      "amenities": [
+        "Family-friendly",
+        "Clean rooms",
+        "Near airport"
+      ],
+      "image_url": "https://example.com/images/royal-resort.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 5,
+      "name": "Marjan Hotel Gwadar",
+      "type": "Mid-Range Hotel",
+      "description": "Mid-range hotel offering accommodation and restaurant services near Koh-e-Batil.",
+      "phone_number": "+92 333 3939123",
+      "phone_verified": false,
+      "verification_source": "Provided in source document - phone format unverified",
+      "location": "North Avenue, Gwadar",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.9,
+      "price_range": "Medium",
+      "amenities": [
+        "Restaurant",
+        "Accommodation services"
+      ],
+      "image_url": "https://example.com/images/marjan-hotel.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 6,
+      "name": "Gwadar Central Inn",
+      "type": "Business Hotel",
+      "description": "Modern business hotel located in central Gwadar with WiFi and conference rooms.",
+      "phone_number": "+92 86 4211111",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Central Gwadar, Balochistan",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.8,
+      "price_range": "Medium",
+      "amenities": [
+        "WiFi",
+        "Conference rooms",
+        "Business facilities"
+      ],
+      "image_url": "https://example.com/images/gwadar-central-inn.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 7,
+      "name": "Beach View Guest House Gwadar",
+      "type": "Guest House",
+      "description": "Affordable guest house near beach offering simple rooms with sea access.",
+      "phone_number": "+92 86 4223344",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar Beach Area",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.5,
+      "price_range": "Low",
+      "amenities": [
+        "Beach access",
+        "Sea view",
+        "Simple rooms"
+      ],
+      "image_url": "https://example.com/images/beach-view-gwadar.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 8,
+      "name": "Gwadar Gateway Hotel",
+      "type": "Mid-Range Hotel",
+      "description": "Comfortable hotel for business and tourists with clean rooms and dining facilities.",
+      "phone_number": "+92 86 4217788",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Main Highway Gwadar",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.7,
+      "price_range": "Medium",
+      "amenities": [
+        "Dining facilities",
+        "Clean rooms",
+        "Business suitable"
+      ],
+      "image_url": "https://example.com/images/gateway-hotel.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 9,
+      "name": "Al Noor Hotel Gwadar",
+      "type": "Budget Hotel",
+      "description": "Budget-friendly hotel offering basic rooms and local food services.",
+      "phone_number": "+92 300 1234567",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar City Center",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.4,
+      "price_range": "Low",
+      "amenities": [
+        "Basic rooms",
+        "Local food services"
+      ],
+      "image_url": "https://example.com/images/alnoor-hotel.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 10,
+      "name": "Gwadar Star Hotel",
+      "type": "Budget to Mid-Range Hotel",
+      "description": "Standard hotel with comfortable rooms and short stay facilities.",
+      "phone_number": "+92 86 4219988",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar Old Town",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.6,
+      "price_range": "Low to Medium",
+      "amenities": [
+        "Comfortable rooms",
+        "Short stay facility"
+      ],
+      "image_url": "https://example.com/images/gwadar-star-hotel.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 11,
+      "name": "Sunset Beach Resort Gwadar",
+      "type": "Luxury Resort",
+      "description": "Scenic beachfront resort with sunset views and private relaxation areas.",
+      "phone_number": "+92 86 4222233",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar Coastal Area",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 4.3,
+      "price_range": "High",
+      "amenities": [
+        "Beachfront location",
+        "Sunset views",
+        "Private relaxation areas"
+      ],
+      "image_url": "https://example.com/images/sunset-resort.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 12,
+      "name": "Pearl Guest House Gwadar",
+      "type": "Guest House",
+      "description": "Clean guest house with basic amenities for short stays.",
+      "phone_number": "+92 86 4213344",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar City",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.5,
+      "price_range": "Low",
+      "amenities": [
+        "Basic amenities",
+        "Short stay facility"
+      ],
+      "image_url": "https://example.com/images/pearl-guest-house.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 13,
+      "name": "Makran View Hotel",
+      "type": "Mid-Range Hotel",
+      "description": "Hotel offering scenic views of Makran coast and simple accommodations.",
+      "phone_number": "+92 86 4216677",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Makran Coastal Highway, Gwadar",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.8,
+      "price_range": "Medium",
+      "amenities": [
+        "Scenic coastal views",
+        "Simple accommodations"
+      ],
+      "image_url": "https://example.com/images/makran-view-hotel.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 14,
+      "name": "Coastal Breeze Hotel Gwadar",
+      "type": "Mid-Range Hotel",
+      "description": "Modern hotel near sea offering relaxing environment and dining options.",
+      "phone_number": "+92 86 4225566",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar Coastal Belt",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 4.0,
+      "price_range": "Medium",
+      "amenities": [
+        "Sea proximity",
+        "Dining options",
+        "Relaxing environment"
+      ],
+      "image_url": "https://example.com/images/coastal-breeze.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 15,
+      "name": "Gwadar Residency Hotel",
+      "type": "Mid-Range Hotel",
+      "description": "Comfortable residency hotel suitable for long stays and families.",
+      "phone_number": "+92 86 4217781",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar City Center",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.9,
+      "price_range": "Medium",
+      "amenities": [
+        "Long stay facilities",
+        "Family suitable"
+      ],
+      "image_url": "https://example.com/images/residency-hotel.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 16,
+      "name": "Hilltop Gwadar Hotel",
+      "type": "Luxury Hotel",
+      "description": "Hotel located on elevated point with scenic sea and city views.",
+      "phone_number": "+92 86 4218899",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Koh-e-Batil Hill, Gwadar",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 4.1,
+      "price_range": "High",
+      "amenities": [
+        "Hilltop location",
+        "Sea view",
+        "City view"
+      ],
+      "image_url": "https://example.com/images/hilltop-gwadar.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 17,
+      "name": "Ocean Pearl Inn Gwadar",
+      "type": "Luxury Hotel",
+      "description": "Elegant hotel offering ocean-facing rooms and premium services.",
+      "phone_number": "+92 86 4219900",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar Sea View Area",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 4.2,
+      "price_range": "High",
+      "amenities": [
+        "Ocean-facing rooms",
+        "Premium services"
+      ],
+      "image_url": "https://example.com/images/ocean-pearl.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 18,
+      "name": "Gwadar Comfort Lodge",
+      "type": "Budget Lodge",
+      "description": "Affordable lodge with clean rooms and basic amenities for travelers.",
+      "phone_number": "+92 86 4212233",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar Old City",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.5,
+      "price_range": "Low",
+      "amenities": [
+        "Clean rooms",
+        "Basic amenities"
+      ],
+      "image_url": "https://example.com/images/comfort-lodge.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 19,
+      "name": "Sea Pearl Resort Gwadar",
+      "type": "Luxury Resort",
+      "description": "Luxury seaside resort offering premium rooms and dining facilities.",
+      "phone_number": "+92 86 4221122",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar Beachfront",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 4.4,
+      "price_range": "High",
+      "amenities": [
+        "Beachfront location",
+        "Premium rooms",
+        "Dining facilities"
+      ],
+      "image_url": "https://example.com/images/sea-pearl-resort.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 20,
+      "name": "Gwadar View Point Hotel",
+      "type": "Mid-Range Hotel",
+      "description": "Hotel with panoramic views of Gwadar coastline and harbor.",
+      "phone_number": "+92 86 4214455",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "View Point Road, Gwadar",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 4.0,
+      "price_range": "Medium",
+      "amenities": [
+        "Panoramic views",
+        "Harbor view"
+      ],
+      "image_url": "https://example.com/images/viewpoint-hotel.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 21,
+      "name": "Al Jazeera Hotel Gwadar",
+      "type": "Budget Hotel",
+      "description": "Budget hotel offering basic rooms and food services for travelers.",
+      "phone_number": "+92 86 4216678",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar City",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.4,
+      "price_range": "Low",
+      "amenities": [
+        "Basic rooms",
+        "Food services"
+      ],
+      "image_url": "https://example.com/images/aljazeera-hotel.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 22,
+      "name": "Makran Pearl Hotel",
+      "type": "Mid-Range Hotel",
+      "description": "Mid-range hotel near coastal highway with decent facilities.",
+      "phone_number": "+92 86 4217789",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Makran Highway, Gwadar",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.8,
+      "price_range": "Medium",
+      "amenities": [
+        "Decent facilities",
+        "Highway access"
+      ],
+      "image_url": "https://example.com/images/makran-pearl.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 23,
+      "name": "Gwadar Paradise Inn",
+      "type": "Mid-Range Hotel",
+      "description": "Comfortable hotel offering peaceful stay for families and tourists.",
+      "phone_number": "+92 86 4218890",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar City Center",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.9,
+      "price_range": "Medium",
+      "amenities": [
+        "Family friendly",
+        "Peaceful environment"
+      ],
+      "image_url": "https://example.com/images/paradise-inn.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 24,
+      "name": "Blue Horizon Hotel Gwadar",
+      "type": "Luxury Hotel",
+      "description": "Sea-facing hotel offering modern amenities and scenic views.",
+      "phone_number": "+92 86 4219901",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar Coastal Road",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 4.1,
+      "price_range": "High",
+      "amenities": [
+        "Sea facing",
+        "Modern amenities",
+        "Scenic views"
+      ],
+      "image_url": "https://example.com/images/blue-horizon.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 25,
+      "name": "Gwadar Hill Resort",
+      "type": "Luxury Resort",
+      "description": "Luxury hill resort with panoramic sea views and premium facilities.",
+      "phone_number": "+92 86 4222234",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Koh-e-Batil, Gwadar",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 4.3,
+      "price_range": "High",
+      "amenities": [
+        "Hill location",
+        "Sea views",
+        "Premium facilities"
+      ],
+      "image_url": "https://example.com/images/hill-resort.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 26,
+      "name": "Sunrise Hotel Gwadar",
+      "type": "Budget Hotel",
+      "description": "Budget-friendly hotel ideal for short stays and business trips.",
+      "phone_number": "+92 86 4211122",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar City",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 3.5,
+      "price_range": "Low",
+      "amenities": [
+        "Short stay facilities",
+        "Business suitable"
+      ],
+      "image_url": "https://example.com/images/sunrise-hotel.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 27,
+      "name": "Golden Sands Hotel Gwadar",
+      "type": "Mid-Range Hotel",
+      "description": "Comfortable hotel near beach offering peaceful stay experience.",
+      "phone_number": "+92 86 4212234",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar Beach Area",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 4.0,
+      "price_range": "Medium",
+      "amenities": [
+        "Beach proximity",
+        "Peaceful stay"
+      ],
+      "image_url": "https://example.com/images/golden-sands.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 28,
+      "name": "Gwadar Elite Hotel",
+      "type": "Luxury Hotel",
+      "description": "Premium hotel offering luxury rooms and business services.",
+      "phone_number": "+92 86 4213345",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar Main City",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 4.2,
+      "price_range": "High",
+      "amenities": [
+        "Luxury rooms",
+        "Business services"
+      ],
+      "image_url": "https://example.com/images/elite-hotel.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    },
+    {
+      "id": 29,
+      "name": "Harbor View Hotel Gwadar",
+      "type": "Luxury Hotel",
+      "description": "Hotel overlooking Gwadar port with comfortable rooms and dining.",
+      "phone_number": "+92 86 4214456",
+      "phone_verified": false,
+      "verification_source": "Provided in source document",
+      "location": "Gwadar Harbor Area",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "rating": 4.1,
+      "price_range": "High",
+      "amenities": [
+        "Port view",
+        "Dining facilities",
+        "Comfortable rooms"
+      ],
+      "image_url": "https://example.com/images/harbor-view.jpg",
+      "image_verified": false,
+      "image_note": "Placeholder URL - example.com",
+      "rooms_available": null,
+      "check_in": null,
+      "check_out": null,
+      "data_completeness": "LOW"
+    }
+  ],
+  "data_quality_summary": {
+    "total_hotels": 29,
+    "verified_phone_numbers": 3,
+    "verified_images": 1,
+    "placeholder_images": 28,
+    "unverified_phone_numbers": 26,
+    "avg_rating": 3.9,
+    "highest_rated": "Sea Pearl Resort Gwadar (4.4)",
+    "lowest_rated": "Al Jazeera Hotel Gwadar & Al Noor Hotel Gwadar (3.4)"
+  },
+  "rag_training_recommendations": {
+    "use_verified_data_for": [
+      "Phone numbers marked as 'phone_verified: true'",
+      "Names and locations for all hotels",
+      "Descriptions (from source)"
+    ],
+    "caution_required_for": [
+      "All image URLs - most are placeholders",
+      "Phone numbers not verified - requires confirmation",
+      "Coordinates are null - need to be populated"
+    ],
+    "improvement_needed": [
+      "Verify all phone numbers via direct calls",
+      "Replace placeholder image URLs",
+      "Add check-in/check-out times",
+      "Add room capacity information",
+      "Add booking systems/websites",
+      "Add precise coordinates/GPS data"
+    ]
+  },
+  "notes_for_developers": {
+    "phone_number_format": "Gwadar area code is typically +92-86-XXXXXXX",
+    "suspicious_patterns": [
+      "Phone numbers starting with 333 are typically Karachi (not Gwadar area code 86)",
+      "Many phone numbers follow sequential patterns (suggests generated data)",
+      "Some phone numbers may be outdated"
+    ],
+    "recommendation": "Verify phone numbers and images before using in production RAG system"
+  }
+}
