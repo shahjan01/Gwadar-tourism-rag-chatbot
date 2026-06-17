@@ -1,0 +1,500 @@
+{
+  "metadata": {
+    "city": "Gwadar",
+    "province": "Balochistan",
+    "country": "Pakistan",
+    "category": "Transport Services - Car Rentals & Buses",
+    "data_collection_date": "2025-06-14",
+    "currency": "Pakistani Rupees (PKR)",
+    "data_note": "Contains verified car rental and bus services operating in Gwadar and routes to/from Gwadar",
+    "distance_karachi_to_gwadar": "650 km",
+    "travel_time": "10-12 hours"
+  },
+  "car_rental_services": {
+    "total_services": 2,
+    "verified_services": 1,
+    "note": "Primary car rental companies operating in Gwadar"
+  },
+  "car_rentals": [
+    {
+      "id": "CR_001",
+      "name": "Gwadar Rent A Car",
+      "type": "Car Rental Service",
+      "description": "Professional car rental service with nationwide operations, operating for 10+ years. Offers various vehicle types with experienced drivers.",
+      "website": "https://gwadarrentacar.pk",
+      "phone_verified": false,
+      "phone_note": "Call or WhatsApp available - specific numbers not publicly listed on website",
+      "contact_method": "Website contact form or Instagram DM",
+      "instagram": "@gwadarrentacar",
+      "operating_hours": "24/7 booking system available",
+      "service_coverage": [
+        "Gwadar",
+        "Karachi",
+        "Balochistan region",
+        "Nationwide Pakistan"
+      ],
+      "vehicles_available": [
+        {
+          "type": "Economy Cars",
+          "examples": "Toyota Yaris, Honda City",
+          "capacity": "4-5 passengers",
+          "price_per_day": "8000-12000 PKR",
+          "with_driver": true,
+          "self_drive": true
+        },
+        {
+          "type": "Sedan",
+          "examples": "Toyota Corolla, Honda Civic",
+          "capacity": "4-5 passengers",
+          "price_per_day": "10000-15000 PKR",
+          "with_driver": true,
+          "self_drive": true
+        },
+        {
+          "type": "SUV",
+          "examples": "Toyota Fortuner, Hyundai Santa Fe",
+          "capacity": "5-7 passengers",
+          "price_per_day": "15000-25000 PKR",
+          "with_driver": true,
+          "self_drive": true
+        },
+        {
+          "type": "Van",
+          "examples": "Toyota Hiace, Hino Van",
+          "capacity": "10-15 passengers",
+          "price_per_day": "12000-18000 PKR",
+          "with_driver": true,
+          "self_drive": false
+        },
+        {
+          "type": "Coaster",
+          "name": "4c Saloon Coaster",
+          "capacity": "28 seaters",
+          "features": [
+            "Air conditioner",
+            "Luggage capacity",
+            "Charged per 10 hours"
+          ],
+          "price_per_day": "15000 PKR",
+          "price_note": "10 hours charging basis",
+          "with_driver": true,
+          "self_drive": false
+        },
+        {
+          "type": "Buses",
+          "capacity": "30-50 seaters",
+          "price_per_day": "20000-40000 PKR",
+          "with_driver": true,
+          "self_drive": false
+        }
+      ],
+      "pricing_options": {
+        "with_fuel": "Fuel cost included in rental price",
+        "without_fuel": "Customer pays for fuel separately",
+        "daily_rental": "Flexible daily rates",
+        "weekly_rental": "Discounted weekly packages available",
+        "monthly_rental": "Best prices for long-term rentals"
+      },
+      "additional_services": [
+        "Airport pickup and drop-off",
+        "Wedding transportation",
+        "Corporate travel packages",
+        "Long-distance travel (Karachi, Quetta, Iran border)",
+        "One-way rentals available"
+      ],
+      "requirements": {
+        "self_drive": [
+          "Valid CNIC",
+          "Valid driving license",
+          "Security deposit"
+        ],
+        "with_driver": [
+          "Valid CNIC",
+          "Advance booking recommended"
+        ]
+      },
+      "booking_method": [
+        "Online booking form",
+        "Phone call",
+        "WhatsApp message",
+        "Instagram DM"
+      ],
+      "customer_reviews": "10,000+ satisfied customers with 4-year+ relationships",
+      "data_completeness": "HIGH"
+    },
+    {
+      "id": "CR_002",
+      "name": "Makran Rent A Car",
+      "type": "Car Rental Service",
+      "description": "Premium car rental service operating 9+ years with nationwide coverage. Specializes in long-distance travel across Pakistan.",
+      "website": "https://makranrentacar.pk",
+      "phone_verified": false,
+      "contact_method": "Website contact form",
+      "operating_hours": "24/7 booking available",
+      "service_coverage": [
+        "Gwadar",
+        "Quetta",
+        "Karachi",
+        "Nationwide Pakistan"
+      ],
+      "vehicles_available": [
+        {
+          "type": "Economy to Luxury",
+          "description": "Wide range from budget to high-end vehicles",
+          "price_range": "Varies by vehicle type",
+          "with_driver": true,
+          "self_drive": true
+        }
+      ],
+      "specializations": [
+        "Long-distance travel",
+        "Cross-country journeys",
+        "Professional drivers",
+        "City-to-city routes"
+      ],
+      "additional_services": [
+        "Door-to-door transportation",
+        "Airport transfers",
+        "Long-distance packages"
+      ],
+      "booking_method": [
+        "Online platform",
+        "Phone call",
+        "24/7 availability"
+      ],
+      "data_completeness": "MEDIUM"
+    },
+    {
+      "id": "CR_003",
+      "name": "ZJ Rent A Car",
+      "type": "Car Rental Service",
+      "description": "Professional car rental service offering Karachi to Gwadar routes with self-drive and chauffeur options.",
+      "phone_numbers": [
+        "0333 7000909",
+        "0321 3771448",
+        "0213 6830343"
+      ],
+      "phone_verified": true,
+      "location": "Block #13, Shop #20, Islam Plaza, Naseer Abad, Federal B Area, Karachi-75950",
+      "website": "https://zjrentacar.com",
+      "operating_hours": "Business hours + booking available",
+      "service_coverage": [
+        "Karachi to Gwadar",
+        "Karachi",
+        "Balochistan"
+      ],
+      "vehicles_available": [
+        {
+          "type": "Standard Cars",
+          "price_estimate": "Budget-friendly rates"
+        },
+        {
+          "type": "SUV",
+          "recommended_for": "Families and group travel"
+        },
+        {
+          "type": "Toyota Hiace",
+          "recommended_for": "Families and group travel"
+        }
+      ],
+      "rental_options": [
+        "Self-drive rental",
+        "Chauffeur-driven rental",
+        "Round-trip rental",
+        "Corporate packages"
+      ],
+      "additional_costs": [
+        "Fuel (may not be included)",
+        "Tolls (not included)",
+        "Security deposit required for self-drive"
+      ],
+      "documents_required": {
+        "self_drive": [
+          "CNIC",
+          "Valid driving license",
+          "Security deposit"
+        ],
+        "chauffeur_drive": [
+          "CNIC"
+        ]
+      },
+      "special_routes": [
+        "Bahria Town Karachi to Gwadar",
+        "Direct pickup available",
+        "Corporate travel services"
+      ],
+      "booking_method": [
+        "Phone call",
+        "WhatsApp",
+        "Walk-in"
+      ],
+      "data_completeness": "MEDIUM-HIGH"
+    }
+  ],
+  "bus_services": {
+    "total_services": 2,
+    "verified_services": 2,
+    "note": "Bus services operating Karachi-Gwadar route with multiple daily departures"
+  },
+  "buses": [
+    {
+      "id": "BS_001",
+      "name": "Al Mumtaz Coaches",
+      "type": "Long-Distance Coach Service",
+      "description": "Reputed bus service provider with 24/7 operations. Modern Yutong buses with high customer satisfaction.",
+      "phone_numbers": [
+        "0331 2767347",
+        "0333 2948006",
+        "0344 2834221",
+        "0324 3282009"
+      ],
+      "phone_verified": true,
+      "address": "XW4H+Q6F, Yusuf Goth Yousuf Goth Keamari, Karachi, Karachi City, Sindh",
+      "website": "Facebook: Al Mumtaz Coach Service",
+      "operating_hours": "24/7 booking available",
+      "routes": [
+        {
+          "route": "Karachi to Gwadar",
+          "ticket_price": "2500 PKR",
+          "ticket_price_verified": true,
+          "distance": "650 km",
+          "travel_time": "10-12 hours"
+        },
+        {
+          "route": "Gwadar to Karachi",
+          "ticket_price": "2500 PKR",
+          "ticket_price_verified": true,
+          "distance": "650 km",
+          "travel_time": "10-12 hours"
+        },
+        {
+          "route": "Karachi to Turbat",
+          "ticket_price": "2500 PKR",
+          "distance": "varies"
+        }
+      ],
+      "additional_routes": [
+        "Pasni",
+        "Jiwani",
+        "Panjgur",
+        "Other Balochistan destinations"
+      ],
+      "bus_types": [
+        {
+          "type": "Economy Class",
+          "description": "Daewoo and Yutong 45-seater buses",
+          "features": "Economical option",
+          "seating": "45 passengers"
+        },
+        {
+          "type": "Business Class",
+          "bus_model": "Yutong",
+          "features": [
+            "Modern amenities",
+            "Comfortable seating"
+          ],
+          "seating": "21-30 passengers",
+          "seating_layout": "2×2 or 2×1"
+        },
+        {
+          "type": "Executive Class",
+          "bus_model": "Yutong Double Glass",
+          "features": [
+            "Latest model",
+            "More leg space",
+            "Premium comfort"
+          ]
+        }
+      ],
+      "departure_timings": {
+        "from_karachi": [
+          "Morning departures: 8:00 AM - 10:00 AM",
+          "Evening departures: 5:00 PM - 9:00 PM"
+        ],
+        "frequency": "Multiple buses daily"
+      },
+      "amenities": [
+        "Climate control",
+        "Padded seats",
+        "Modern buses",
+        "Professional staff"
+      ],
+      "booking_methods": [
+        "Online booking - bookme.pk",
+        "Online booking - bookkaru.com",
+        "Phone call",
+        "Walk-in at terminal"
+      ],
+      "payment_methods": [
+        "JazzCash",
+        "Easypaisa",
+        "Credit/Debit cards",
+        "Cash at terminal"
+      ],
+      "sleeper_buses": false,
+      "information": "No sleeper buses on Karachi-Gwadar route",
+      "safety_note": "Safe but expect multiple security checkpoints requiring ID documents",
+      "data_completeness": "HIGH"
+    },
+    {
+      "id": "BS_002",
+      "name": "Geo Javed Coaches",
+      "type": "Long-Distance Coach Service",
+      "description": "Reliable bus service connecting Karachi to Gwadar and other Balochistan destinations with luxury options.",
+      "address": "XW4H+X3F, Yousuf Goth Keamari, Karachi City, Sindh",
+      "website": "Bookme.pk for online booking",
+      "phone_verified": false,
+      "operating_hours": "Regular service schedule",
+      "routes": [
+        {
+          "route": "Karachi to Gwadar",
+          "ticket_price": "Comparable to Al Mumtaz",
+          "distance": "650 km"
+        },
+        {
+          "route": "Karachi to Turbat",
+          "distance": "varies"
+        }
+      ],
+      "intermediate_stops": [
+        "Mand",
+        "Khuzdar",
+        "Panjgur",
+        "Jiwani",
+        "Tump"
+      ],
+      "bus_types": [
+        {
+          "type": "Luxury Class",
+          "bus_model": "Daewoo and Yutong",
+          "description": "Economical luxury option",
+          "capacity": "45 seaters"
+        },
+        {
+          "type": "Executive Class",
+          "bus_model": "Yutong Double Glass",
+          "features": [
+            "Latest model",
+            "More leg space",
+            "Premium seating"
+          ]
+        }
+      ],
+      "booking_methods": [
+        "Online - Bookme.pk",
+        "Direct at terminal"
+      ],
+      "departure_timings": [
+        "Morning options",
+        "Evening options"
+      ],
+      "data_completeness": "MEDIUM"
+    },
+    {
+      "id": "BS_003",
+      "name": "Al Naseeb Coach Service",
+      "type": "Long-Distance Coach Service",
+      "description": "Coach service operating Karachi to Gwadar and Turbat routes.",
+      "location": "Karachi",
+      "phone_verified": false,
+      "operating_routes": [
+        "Karachi to Gwadar",
+        "Karachi to Turbat"
+      ],
+      "bus_types": [
+        "Luxury buses",
+        "Executive buses"
+      ],
+      "booking_methods": [
+        "Online booking platforms",
+        "Phone",
+        "Terminal booking"
+      ],
+      "data_completeness": "LOW-MEDIUM"
+    }
+  ],
+  "general_travel_information": {
+    "karachi_to_gwadar": {
+      "distance": "650 km",
+      "travel_time": "10-12 hours",
+      "route": "Makran Coastal Highway",
+      "highway_quality": "One of Pakistan's best-maintained highways",
+      "conditions": "Smooth driving conditions",
+      "safety_notes": [
+        "Limited night lighting in some sections",
+        "Limited fuel stations",
+        "Avoid night travel if possible",
+        "Multiple security checkpoints",
+        "ID documents required at checkpoints"
+      ]
+    },
+    "transportation_options": [
+      {
+        "type": "Bus",
+        "cost": "2000-3000 PKR",
+        "affordability": "Most affordable",
+        "comfort_level": "Good on modern buses"
+      },
+      {
+        "type": "Car Rental",
+        "cost": "12000-40000+ PKR per day",
+        "affordability": "Moderate to expensive",
+        "comfort_level": "High with driver"
+      },
+      {
+        "type": "Self-drive Car",
+        "cost": "8000-25000+ PKR per day",
+        "affordability": "Moderate",
+        "requirements": "Valid driving license"
+      }
+    ]
+  },
+  "departure_timings_summary": {
+    "karachi_to_gwadar": {
+      "morning_departures": "8:00 AM - 10:00 AM",
+      "evening_departures": "5:00 PM - 9:00 PM",
+      "frequency": "Multiple buses daily",
+      "estimated_arrival": "6:00 PM - 10:00 PM (morning departure) or 3:00 AM - 7:00 AM (evening departure)"
+    }
+  },
+  "pricing_comparison": {
+    "economy_car_rental": "8000-12000 PKR/day",
+    "sedan_rental": "10000-15000 PKR/day",
+    "suv_rental": "15000-25000 PKR/day",
+    "van_rental": "12000-18000 PKR/day",
+    "coaster_rental": "15000 PKR/10 hours",
+    "bus_charter": "20000-40000+ PKR/day",
+    "bus_ticket_karachi_gwadar": "2500 PKR"
+  },
+  "rag_training_recommendations": {
+    "verified_data": [
+      "Al Mumtaz Coaches: Phone numbers, routes, ticket prices",
+      "ZJ Rent A Car: Phone numbers, services",
+      "Gwadar Rent A Car: Website, services, pricing samples"
+    ],
+    "data_requiring_verification": [
+      "Current exact pricing for all vehicles",
+      "Current departure timings",
+      "Availability and current fleet status",
+      "Seasonal pricing variations"
+    ],
+    "recommended_actions": [
+      "Call phone numbers to verify current pricing",
+      "Confirm seasonal price variations",
+      "Verify current departure schedules",
+      "Check real-time availability"
+    ]
+  },
+  "notes": {
+    "data_quality": "Mixed - bus services well documented, car rental services partly documented",
+    "most_reliable": "Al Mumtaz Coaches (long operating history, verified contact)",
+    "for_budget_travelers": "Bus services (2500 PKR)",
+    "for_comfort_travelers": "Car rental with driver",
+    "booking_platforms": [
+      "Bookme.pk",
+      "Bookkaru.com",
+      "Direct phone contact",
+      "Walk-in at terminals"
+    ]
+  }
+}
