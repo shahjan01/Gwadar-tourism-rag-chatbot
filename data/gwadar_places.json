@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Gwadar Beach (Main City Beach)",
+    "description": "Main public beach of Gwadar with calm Arabian Sea waves and sunset views.",
+    "location_url": "https://www.google.com/maps?q=Gwadar+Beach",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_gwadar_beach.jpg"
+    ]
+  },
+  {
+    "name": "Koh-e-Batil Viewpoint",
+    "description": "Highest viewpoint in Gwadar offering panoramic city, port, and sea views.",
+    "location_url": "https://www.google.com/maps?q=Koh-e-Batil+Gwadar",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_koh_e_batil.jpg"
+    ]
+  },
+  {
+    "name": "Hammerhead Peninsula",
+    "description": "Famous natural land shape forming Gwadar’s hammerhead-like structure.",
+    "location_url": "https://www.google.com/maps?q=Gwadar+Hammerhead+Peninsula",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_hammerhead.jpg"
+    ]
+  },
+  {
+    "name": "Marine Drive Gwadar",
+    "description": "Scenic coastal road along Arabian Sea, popular for night drives.",
+    "location_url": "https://www.google.com/maps?q=Marine+Drive+Gwadar",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_marine_drive.jpg"
+    ]
+  },
+  {
+    "name": "Sunset View Point Gwadar",
+    "description": "Best sunset spot in Gwadar overlooking the Arabian Sea horizon.",
+    "location_url": "https://www.google.com/maps?q=Sunset+View+Point+Gwadar",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_sunset.jpg"
+    ]
+  },
+  {
+    "name": "Gwadar Port View Point",
+    "description": "Viewpoint overlooking Gwadar deep sea port (CPEC project).",
+    "location_url": "https://www.google.com/maps?q=Gwadar+Port",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_gwadar_port.jpg"
+    ]
+  },
+  {
+    "name": "Pishukan Fishing Village",
+    "description": "Traditional fishing village known for boats, seafood, and coastal life.",
+    "location_url": "https://www.google.com/maps?q=Pishukan+Gwadar",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_pishukan.jpg"
+    ]
+  },
+  {
+    "name": "Jiwani Beach",
+    "description": "Remote untouched beach near Iran border with dolphins and mangroves.",
+    "location_url": "https://www.google.com/maps?q=Jiwani+Beach",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_jiwani.jpg"
+    ]
+  },
+  {
+    "name": "Daran Beach Jiwani",
+    "description": "Turtle nesting beach with untouched natural environment.",
+    "location_url": "https://www.google.com/maps?q=Daran+Beach+Jiwani",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_daran.jpg"
+    ]
+  },
+  {
+    "name": "Pasni Beach",
+    "description": "Peaceful fishing town beach with golden sand and calm water.",
+    "location_url": "https://www.google.com/maps?q=Pasni+Beach",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_pasni.jpg"
+    ]
+  },
+  {
+    "name": "Pasni Town",
+    "description": "Coastal town famous for seafood and Makran highway stop.",
+    "location_url": "https://www.google.com/maps?q=Pasni+Town",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_pasni_town.jpg"
+    ]
+  },
+  {
+    "name": "Ormara Beach",
+    "description": "Quiet clean beach ideal for camping and long coastal drives.",
+    "location_url": "https://www.google.com/maps?q=Ormara+Beach",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_ormara.jpg"
+    ]
+  },
+  {
+    "name": "Ormara Town",
+    "description": "Important coastal town between Karachi and Gwadar.",
+    "location_url": "https://www.google.com/maps?q=Ormara+Town",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_ormara_town.jpg"
+    ]
+  },
+  {
+    "name": "Buzi Pass",
+    "description": "Scenic mountain pass on Makran Coastal Highway with desert-sea views.",
+    "location_url": "https://www.google.com/maps?q=Buzi+Pass",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_buzi_pass.jpg"
+    ]
+  },
+  {
+    "name": "Kund Malir Beach",
+    "description": "One of Asia’s most beautiful beaches inside Hingol National Park.",
+    "location_url": "https://www.google.com/maps?q=Kund+Malir+Beach",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_kund_malir.jpg"
+    ]
+  },
+  {
+    "name": "Hingol National Park",
+    "description": "Largest national park in Pakistan with desert, mountains, and coastal areas.",
+    "location_url": "https://www.google.com/maps?q=Hingol+National+Park",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_hingol.jpg"
+    ]
+  },
+  {
+    "name": "Princess of Hope",
+    "description": "Natural rock formation shaped like a standing woman.",
+    "location_url": "https://www.google.com/maps?q=Princess+of+Hope+Hingol",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_princess_of_hope.jpg"
+    ]
+  },
+  {
+    "name": "Astola Island",
+    "description": "Pakistan’s largest offshore island with marine life and camping spots.",
+    "location_url": "https://www.google.com/maps?q=Astola+Island",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_astola.jpg"
+    ]
+  },
+  {
+    "name": "Gwadar Cricket Stadium",
+    "description": "Modern stadium near coastline symbolizing Gwadar development.",
+    "location_url": "https://www.google.com/maps?q=Gwadar+Cricket+Stadium",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_stadium.jpg"
+    ]
+  },
+  {
+    "name": "Gwadar Industrial Zone",
+    "description": "Developing industrial area under CPEC near port region.",
+    "location_url": "https://www.google.com/maps?q=Gwadar+Industrial+Zone",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_industrial.jpg"
+    ]
+  },
+  {
+    "name": "Gadani Ship Breaking Yard",
+    "description": "One of the world’s largest ship breaking industries.",
+    "location_url": "https://www.google.com/maps?q=Gadani+Ship+Breaking+Yard",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_gadani.jpg"
+    ]
+  },
+  {
+    "name": "Sonmiani Beach",
+    "description": "Popular weekend beach near Karachi side of Balochistan.",
+    "location_url": "https://www.google.com/maps?q=Sonmiani+Beach",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_sonmiani.jpg"
+    ]
+  },
+  {
+    "name": "Makran Coastal Highway Scenic Route",
+    "description": "Famous highway connecting Karachi to Gwadar along coast and desert.",
+    "location_url": "https://www.google.com/maps?q=Makran+Coastal+Highway",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_makran_highway.jpg"
+    ]
+  },
+  {
+    "name": "Ormara Naval Base Area",
+    "description": "Strategic Pakistan Navy base located in Ormara coastal region.",
+    "location_url": "https://www.google.com/maps?q=Naval+Base+Ormara",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_naval_base.jpg"
+    ]
+  },
+  {
+    "name": "Jiwani Mangrove Forest",
+    "description": "Important ecological mangrove forest near Iran border.",
+    "location_url": "https://www.google.com/maps?q=Jiwani+Mangrove",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/placeholder_mangrove.jpg"
+    ]
+  }
+]
