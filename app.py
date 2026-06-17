@@ -8,9 +8,9 @@ st.set_page_config(
 )
 
 if "theme" not in st.session_state:
-    st.session_state.theme = "Dark"
+    st.session_state.theme = "Light"
 
-theme_icon = "☀️" if st.session_state.theme == "Light" else "🌙"
+theme_icon = "☀️" if st.session_state.theme == "Dark" else "🌙"
 col1, col2 = st.columns([10, 1])
 with col1:
     st.markdown("### Gwadar City Guide")
