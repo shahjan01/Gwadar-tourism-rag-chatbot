@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "city": "Gwadar",
+    "province": "Balochistan",
+    "country": "Pakistan",
+    "data_collection_date": "2025-06-14",
+    "data_verification_status": "VERIFIED ONLY - Limited public data available",
+    "note": "Many restaurants in Gwadar do not have online presence or verified listings. This JSON contains only restaurants with verified information from reliable sources.",
+    "currency": "Pakistani Rupees (PKR)"
+  },
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Afridi Inn",
+      "description": "Pakistani traditional cuisine restaurant in Gwadar Old City",
+      "cuisine_type": "Pakistani Traditional",
+      "address": "Gwadar Old City, Gwadar, Balochistan, Pakistan",
+      "phone_number": "+92 3307 80 08 22",
+      "phone_verified": true,
+      "operating_hours": "Open until 11:30 PM",
+      "rating": null,
+      "rating_note": "No verified rating available",
+      "menu_items": [],
+      "menu_note": "Menu information not available in verified sources",
+      "pricing_range": null,
+      "best_dishes": [],
+      "images": {
+        "restaurant_photo": null,
+        "menu_photo": null
+      },
+      "data_status": "PARTIAL - Phone verified, limited other details"
+    },
+    {
+      "id": 2,
+      "name": "Gwadar Fast Food",
+      "description": "Fast food restaurant located in Bakshi Baloch Colony area",
+      "cuisine_type": "Fast Food, Pakistani Local",
+      "address": "5829+W2V, Marine Dr, Bakshi Baloch Colony, Gwadar, Balochistan, PK",
+      "phone_number": "+92 321 215 0213",
+      "phone_verified": true,
+      "operating_hours": "5:00 PM - 12:00 AM (Daily)",
+      "rating": null,
+      "rating_note": "No verified rating available",
+      "menu_items": [
+        "Burgers",
+        "French Fries",
+        "Local Pakistani Dishes",
+        "Nihari"
+      ],
+      "menu_note": "Basic menu items mentioned in sources, detailed pricing not available",
+      "pricing_range": null,
+      "best_dishes": [
+        "Burgers",
+        "French Fries"
+      ],
+      "images": {
+        "restaurant_photo": null,
+        "menu_photo": null
+      },
+      "data_status": "PARTIAL - Address and phone verified, limited menu details"
+    },
+    {
+      "id": 3,
+      "name": "Shinwari Restaurant",
+      "description": "Afghani and Pakistani BBQ restaurant in Gwadar Old City",
+      "cuisine_type": "Afghani, Pakistani, BBQ",
+      "address": "48WG+3WJ, Airport Rd, Gwadar Old City, Gwadar, Balochistan, PK",
+      "phone_number": null,
+      "phone_verified": false,
+      "operating_hours": null,
+      "operating_hours_note": "Operating hours not verified",
+      "rating": null,
+      "rating_note": "No verified rating available",
+      "menu_items": [
+        "Shinwari Karahi",
+        "Chapli Kabab",
+        "Afghani Pulao",
+        "BBQ items"
+      ],
+      "menu_note": "Menu items mentioned in sources, prices not verified",
+      "pricing_range": null,
+      "best_dishes": [
+        "Shinwari Karahi",
+        "Chapli Kabab"
+      ],
+      "images": {
+        "restaurant_photo": null,
+        "menu_photo": null
+      },
+      "data_status": "PARTIAL - Address verified, phone/hours not available"
+    },
+    {
+      "id": 4,
+      "name": "Gwadar BBQ & Fast Food",
+      "description": "BBQ and fast food restaurant in Gwadar Old City",
+      "cuisine_type": "BBQ, Fast Food, Pakistani",
+      "address": "48WG+2QG, Unnamed Road, Gwadar Old City, Gwadar, Balochistan, PK",
+      "phone_number": null,
+      "phone_verified": false,
+      "operating_hours": null,
+      "operating_hours_note": "Operating hours not verified",
+      "rating": null,
+      "rating_note": "No verified rating available",
+      "menu_items": [
+        "BBQ items",
+        "Chicken Tikka",
+        "Biryani",
+        "Fast food"
+      ],
+      "menu_note": "Menu items from sources, details not verified",
+      "pricing_range": null,
+      "best_dishes": [
+        "BBQ items"
+      ],
+      "images": {
+        "restaurant_photo": null,
+        "menu_photo": null
+      },
+      "data_status": "MINIMAL - Address only, other details not verified"
+    },
+    {
+      "id": 5,
+      "name": "Café Sadaf",
+      "description": "Fast food café in GDA Park area, Gwadar",
+      "cuisine_type": "Fast Food, Pakistani Local",
+      "address": "8V9+2VG, GDA Park Area, Gwadar, Balochistan, PK",
+      "phone_number": null,
+      "phone_verified": false,
+      "operating_hours": null,
+      "operating_hours_note": "Operating hours not verified",
+      "rating": null,
+      "rating_note": "No verified rating available",
+      "menu_items": [
+        "Fast food burgers",
+        "Local dishes",
+        "Fried items",
+        "Beverages"
+      ],
+      "menu_note": "Menu types from sources, details not verified",
+      "pricing_range": null,
+      "best_dishes": [],
+      "images": {
+        "restaurant_photo": null,
+        "menu_photo": null
+      },
+      "data_status": "MINIMAL - Address only, other details not verified"
+    }
+  ],
+  "data_gaps": {
+    "challenge": "Limited online presence for Gwadar restaurants",
+    "issues": [
+      "Most restaurants do not have verified Google Business listings",
+      "Phone numbers difficult to verify for many establishments",
+      "Operating hours not publicly available for most restaurants",
+      "Menus and pricing information not standardized online",
+      "Ratings and reviews limited in online databases",
+      "Restaurant photos not readily available",
+      "Menu photos/documentation rarely available"
+    ],
+    "recommendation": "For complete accurate data, direct contact with restaurants is necessary"
+  },
+  "instructions_for_rag_training": {
+    "note": "This JSON contains ONLY verified information",
+    "use_only": [
+      "Phone numbers marked as 'phone_verified: true'",
+      "Addresses confirmed from multiple sources",
+      "Known menu items from verified mentions"
+    ],
+    "do_not_use": [
+      "Empty fields (null values) - indicates unverified data",
+      "Estimated ratings without source",
+      "Prices without verification",
+      "Hours without confirmation"
+    ],
+    "suggestion": "Collect additional data directly from restaurants via phone calls or field visits for comprehensive chatbot training"
+  },
+  "how_to_improve_this_data": [
+    "Call verified phone numbers to get current hours, menus, and pricing",
+    "Visit restaurants to photograph menus and ambiance",
+    "Request restaurant websites or social media pages",
+    "Collect Google Maps reviews and ratings",
+    "Document specialties and best dishes through direct interviews",
+    "Photograph restaurant exteriors and interiors",
+    "Request delivery/dine-in options information"
+  ]
+}
